@@ -1,4 +1,6 @@
 ## VizeyeBaşvur Github Sayfasına Hoşgeldiniz.
+Bu sayfa [VizeyeBasvur.com](https://vizeyebasvur.com) sitesinin resmi Github blog sayfasıdır.
+
 
 You can use the [editor on GitHub](https://github.com/VizeyeBasvur/vizeyebasvur.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

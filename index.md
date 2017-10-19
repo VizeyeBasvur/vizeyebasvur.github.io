@@ -5,15 +5,22 @@ VizeyeBasvur.com, vize başvurusu yapılırken danışmanlık veren bir kurumdur
 
 VizeyeBaşvur Makaleleri ile almak istediğiniz vize ile ilgili kapsamlı bilgiye ulaşabileceksiniz. Güncel makaleleri aşağıda bulabilirsiniz.
 
-![VizeyeBasvur](https://www.vizeyebasvur.com/wp-content/uploads/2016/03/Vizeye-Ba%C5%9Fvur.png)
 
-[![VizeyeBasvur](https://www.vizeyebasvur.com/wp-content/uploads/2016/03/Vizeye-Ba%C5%9Fvur.png)](https://vizeyebasvur.com) 
 
-to maintain and preview the content for your website in Markdown files.
+[![Diğer Vizeler için Tıklayın](https://www.vizeyebasvur.com/wp-content/uploads/2016/03/Vizeye-Ba%C5%9Fvur.png)](https://vizeyebasvur.com) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
+### Danışmanlık Verdiğimiz Başlıca Vizeler
+
+- [Amerika Vizesi](https://vizeyebasvur.com/Amerika-vizesi)
+- [İngiltere Vizesi](https://vizeyebasvur.com/ingiltere-vizesi)
+- [Almanya Vizesi](https://vizeyebasvur.com/almanya-vizesi)
+- [Kanada Vizesi](https://vizeyebasvur.com/Kanada-vizesi)
+- [İrlanda Vizesi](https://vizeyebasvur.com/irlanda-vizesi)
+- [Yunanistan Vizesi](https://vizeyebasvur.com/Yunanistan-vizesi)
+- [Diğer Tüm Ülkeler](https://www.vizeyebasvur.com/tum-vizeler/)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

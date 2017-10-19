@@ -2,7 +2,14 @@
 Bu sayfa [VizeyeBasvur.com](https://vizeyebasvur.com) sitesinin resmi Github blog sayfasıdır.
 
 VizeyeBasvur.com, vize başvurusu yapılırken danışmanlık veren bir kurumdur. Özellikle Amerika, Kanada, Avurtralya ve İngiltere gibi major vizelerde uzmanlaşmış olan danışman kadromuz, vize başvuru süreciniz sizler adına yürüterek hızlı ve rahat bir şekilde vize almanızı sağlar.
-You can use the [editor on GitHub](https://github.com/VizeyeBasvur/vizeyebasvur.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+VizeyeBaşvur Makaleleri ile almak istediğiniz vize ile ilgili kapsamlı bilgiye ulaşabileceksiniz. Güncel makaleleri aşağıda bulabilirsiniz.
+
+![VizeyeBasvur](https://www.vizeyebasvur.com/wp-content/uploads/2016/03/Vizeye-Ba%C5%9Fvur.png)
+
+[![VizeyeBasvur](https://www.vizeyebasvur.com/wp-content/uploads/2016/03/Vizeye-Ba%C5%9Fvur.png)](https://vizeyebasvur.com) 
+
+to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

@@ -21,9 +21,8 @@ VizeyeBaşvur Makaleleri ile almak istediğiniz vize ile ilgili kapsamlı bilgiy
 - [Yunanistan Vizesi](https://vizeyebasvur.com/Yunanistan-vizesi)
 - [Diğer Tüm Ülkeler](https://www.vizeyebasvur.com/tum-vizeler/)
 
-```markdown
-```
-## En Popüler Blog Yazılarımızdan Bazıları
+
+### En Popüler Blog Yazılarımızdan Bazıları
 
 - [Amerika Vize Reddi](https://www.vizeyebasvur.com/amerika-vize-reddi/)
 - [Amerika Vize Mülakatı](https://www.vizeyebasvur.com/amerika-vize-mulakati/)
@@ -35,13 +34,3 @@ VizeyeBaşvur Makaleleri ile almak istediğiniz vize ile ilgili kapsamlı bilgiy
 - [Diğer Tüm Makaleler](https://www.vizeyebasvur.com/blog/)
 
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VizeyeBasvur/vizeyebasvur.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
